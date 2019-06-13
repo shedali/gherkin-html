@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 const gherkin = require('gherkin')
 const cat = require('globcat');
 const fs = require('fs');
