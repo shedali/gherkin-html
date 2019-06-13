@@ -1,4 +1,5 @@
 {
+  "name":"@shedali/gherkin-html",
   "dependencies": {
     "@shedali/mdgen": "^0.4.6",
     "cat": "^0.2.0",
