@@ -1,6 +1,6 @@
 {
   "name": "@shedali/gherkin-html",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "bin": {
     "gherkout": "src/index.js"
   },
